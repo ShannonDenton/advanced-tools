@@ -16,6 +16,7 @@ h3 {
 
 h1 {
   font-size: 96px;
+  padding-top: 100px;
 }
 
 h2 {
@@ -78,6 +79,7 @@ p {
 .email-link {
   display: flex;
   justify-content: center;
+  text-align: center;
   color: var(--primary-color);
   font-size: 28px;
   text-decoration: none;
